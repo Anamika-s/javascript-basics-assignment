@@ -1,7 +1,7 @@
 /* Write a program to build a `Pyramid of stars` of given height */
 
 const buildPyramid = () => {
-	// Write your code here
+	// Write my code here
 };
 
 /* For example,
